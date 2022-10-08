@@ -1,0 +1,15 @@
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/bin/Debug/net6.0/Homework_4
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/bin/Debug/net6.0/Homework_4.deps.json
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/bin/Debug/net6.0/Homework_4.runtimeconfig.json
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/bin/Debug/net6.0/Homework_4.dll
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/bin/Debug/net6.0/Homework_4.pdb
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.csproj.AssemblyReference.cache
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.AssemblyInfoInputs.cache
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.AssemblyInfo.cs
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.csproj.CoreCompileInputs.cache
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.dll
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/refint/Homework_4.dll
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.pdb
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/Homework_4.genruntimeconfig.cache
+/Users/Victoria/Google Drive/Geekbrains/Знакомство с языками программирования/Домашняя работа/Homework_4/obj/Debug/net6.0/ref/Homework_4.dll
